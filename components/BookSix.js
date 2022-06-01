@@ -1,6 +1,6 @@
 import React from 'react'
 
-import StyledBookSix from "../styles/StyledBooxSix";
+import StyledBookSix from "../styles/styled-components/StyledBooxSix";
 
 
 const BookSix = () => {
